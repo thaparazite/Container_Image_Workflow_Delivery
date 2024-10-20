@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: thaparazite/Container_Image_Workflow_Integration/.github/workflows/python-app.yml@main
+    uses: Container_Image_Workflow_Integration/.github/workflows/python-app.yml@main
     permissions: 
       contents: read
       
